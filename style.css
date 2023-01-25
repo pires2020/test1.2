@@ -1,0 +1,9 @@
+body{
+    background-color: black;
+    display: flex;
+}
+.escrita {
+    background-color: orange;
+    border-style: dotted;
+    display: flex;
+}
